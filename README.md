@@ -22,11 +22,7 @@ Dataset Description
 Objective: 
 
   Using this dataset, we aim to:
-
     Preprocess raw tweet text
-
-    Extract features (Bag of Words, TF-IDF, etc.)
-
+    Extract features using method like Bag of Words, TF-IDF, etc.
     Train multiple machine learning classifiers (e.g., Logistic Regression, SVM, Random Forest)
-
     Evaluate their performance using metrics like accuracy, confusion matrix, and classification report
